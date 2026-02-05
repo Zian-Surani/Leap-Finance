@@ -1,0 +1,26 @@
+﻿{
+  "disciplined_user": {
+    "daily_activities": [
+      { "type": "practice", "units": 20 },
+      { "type": "speaking", "units": 10 }
+    ],
+    "external_effort_minutes": 30,
+    "validation_success_rate": 0.9
+  },
+
+  "erratic_user": {
+    "daily_activities": [
+      { "type": "video", "units": 30 }
+    ],
+    "external_effort_minutes": 90,
+    "validation_success_rate": 0.4
+  },
+
+  "dropout_user": {
+    "daily_activities": [
+      { "type": "video", "units": 15 }
+    ],
+    "external_effort_minutes": 0,
+    "validation_success_rate": 0.0
+  }
+}

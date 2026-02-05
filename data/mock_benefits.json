@@ -1,0 +1,23 @@
+﻿[
+  {
+    "benefit_id": "fee_relief_1",
+    "name": "Processing Fee Reduction",
+    "description": "₹2,000 reduction on IELTS-related processing fees",
+    "total_value": 2000,
+    "unlock_pc_threshold": 40
+  },
+  {
+    "benefit_id": "expert_slot_1",
+    "name": "Priority Expert Review",
+    "description": "One-time priority speaking evaluation slot",
+    "total_value": 1,
+    "unlock_pc_threshold": 80
+  },
+  {
+    "benefit_id": "prep_kit_1",
+    "name": "Physical IELTS Prep Kit",
+    "description": "Printed speaking prompts and exam-day checklist",
+    "total_value": 1,
+    "unlock_pc_threshold": 130
+  }
+]
