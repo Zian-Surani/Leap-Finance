@@ -140,8 +140,18 @@ This is a **decision-model prototype**, not a shipping product.
 
 ## 5. Repository Structure
 
-leap_pc_simulator/ │ ├── app.py ├── config/ ├── core/ ├── models/ ├──
-ui/ ├── utils/ ├── data/ ├── requirements.txt └── README.md
+leap_pc_simulator/ 
+│ 
+├── app.py 
+├── config/ 
+├── core/
+├── models/ 
+├──
+ui/ 
+├── utils/ 
+├── data/
+├── requirements.txt 
+└── README.md
 
 Layer separation:
 
