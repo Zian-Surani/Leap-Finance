@@ -1,7 +1,11 @@
 ﻿# ui/visualizations.py
 
 import streamlit as st
-import matplotlib.pyplot as plt
+try:
+    import matplotlib.pyplot as plt
+except ImportError:
+    plt = None
+
 
 from core.forecast_engine import forecast_outcome
 from models.user_state import UserState
