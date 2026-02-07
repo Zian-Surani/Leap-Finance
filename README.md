@@ -183,7 +183,7 @@ No cross-layer leakage.
 ## Product Walkthrough — Core Behavioral Demonstration
 
 This walkthrough shows how **Preparation Capital, escrowed leverage, and trajectory forecasting** interact to sustain long-cycle engagement.
-Deployed Link: Leap finance demo ready: https://leap-finance-demo.streamlit.app/
+Deployed Link: https://leap-finance-demo.streamlit.app/
 
 ---
 
