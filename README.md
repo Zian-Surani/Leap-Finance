@@ -180,6 +180,143 @@ No cross-layer leakage.
 
 ------------------------------------------------------------------------
 
+## Product Walkthrough — Core Behavioral Demonstration
+
+This walkthrough shows how **Preparation Capital, escrowed leverage, and trajectory forecasting** interact to sustain long-cycle engagement.
+
+---
+
+# Set 1 — Early Progress (Visual Demonstration)
+
+Validated speaking and practice activity convert immediately into **Preparation Capital**, making early preparation **visible, cumulative, and accountable** instead of invisible.
+
+Below are four interface states captured during early validated effort:
+
+<p align="center">
+  <img src="images/1.png" width="48%">
+  <img src="images/2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/3.png" width="48%">
+  <img src="images/4.png" width="48%">
+</p>
+
+**What this demonstrates**
+
+- Effort becomes **measurable capital**, not passive activity  
+- Progress appears **immediately**, preventing early disengagement  
+- Users see a **clear readiness trajectory** from the first interaction  
+
+This establishes the system’s foundational shift:
+
+> Preparation is treated as **accumulating value**,  
+> not temporary platform activity.
+
+---
+
+# Set 2 — Consistency Unlocks Escrowed Leverage (Example Scenario)
+
+**Example inputs a reviewer can try in the demo**
+
+- Log **speaking activity = 10 units** for **3 consecutive days**
+- Advance time **+1 day** between logs
+
+**Expected outcome**
+
+- Preparation Capital crosses the **first threshold**
+- User enters a higher **Commitment Band**
+- First **escrowed benefit becomes ACTIVE**
+- Forecast shows an **upward readiness trajectory**
+
+**Meaning**
+
+Consistent validated effort converts engagement into **owned leverage**,  
+shifting behavior from *trying to study* to **protecting earned progress**.
+
+---
+
+# Set 3 — Inactivity Creates Visible Risk (Example Scenario)
+
+**Example inputs**
+
+- Stop logging activity  
+- Advance system time by **4 days**
+
+**Expected outcome**
+
+- Preparation Capital **decays gradually**  
+- Escrowed benefit enters **DECAYING state with countdown**  
+- Forecast begins showing **trajectory risk**
+
+**Meaning**
+
+Progress is **not deleted**,  
+but **future leverage becomes visibly vulnerable**, creating rational return pressure.
+
+---
+
+# Set 4 — Missed Recovery Causes Irreversible Expiry (Example Scenario)
+
+**Example inputs**
+
+- Continue inactivity  
+- Advance **2 more days** beyond decay window
+
+**Expected outcome**
+
+- Escrowed benefit becomes **EXPIRED permanently**  
+- Preparation Capital remains **non-zero**  
+- Forecast shows **projected shortfall**
+
+**Meaning**
+
+The system introduces **real consequence without punishing past effort**,  
+preserving trust while enforcing accountability.
+
+---
+
+# Set 5 — Timely Recovery Restores Trajectory (Example Scenario)
+
+**Example inputs**
+
+1. Rebuild Preparation Capital to **~60+**
+2. Allow benefit to enter **DECAYING**
+3. Before expiry, log **mock_test = 1**
+
+**Expected outcome**
+
+- Benefit returns to **ACTIVE**
+- Preparation Capital increases **significantly**
+- Forecast flips to **projected success**
+
+**Meaning**
+
+A **small, timely intervention** can restore long-term readiness,  
+encouraging **early correction instead of last-minute panic**.
+
+---
+
+# Behavioral Flow Summary
+
+Validated Effort
+↓
+Preparation Capital Growth
+↓
+Commitment Band Entry
+↓
+Escrowed Leverage Ownership
+↓
+Inactivity → Decay → Expiry Risk
+↓
+Timely Recovery → Restored Readiness Trajectory
+
+
+**Core principle**
+
+> Sustained engagement emerges from **protecting earned value**,  
+> not from reminders, streaks, or motivational prompts.
+
 ## 6. Running the Prototype
 
 ### Create virtual environment
